@@ -25,4 +25,4 @@ Analyzed Cyclistic bike trip data to compare annual members and casual riders an
 3. Target marketing campaigns during peak casual rider activity
 
 ## Report
-See [Report.pdf] for detailed analysis and visualizations.
+See [https://github.com/mhb-flh/Cyclistic_Bike_Analysis/blob/master/Cyclistic%20Bike%20report.pdf] for detailed analysis and visualizations.
